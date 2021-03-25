@@ -1,0 +1,47 @@
+topics to ask about discussion 2
+
+Python 1:
+- valid variable names
+- strings
+- printing
+
+Python 2:
+- lists
+- tuples
+- dictionaries
+- data types
+
+
+questions to ask:
+
+1. Which of the following are valid variable names?
+
+(A) _jim (B) 4_ever (C) GrEgKiRwIn
+a. (A) only
+b. (B) only
+c. (C) only
+d. (A) and (C)
+e. all of the above
+
+2. Let y = 3 + "2"
+
+What is the value of y?
+a. 5
+b. 32
+c. Error
+
+3. How would I get the value for "Boomer" in this dictionary?
+
+dog_weights = {"Graham":18, "Marnie":40, "Boomer":33}
+a. dog_weights[2]
+b. dog_weights["Boomer"]
+c. dog_weights[Boomer]
+d. dog_weights[3]
+
+4. What did you find most difficult from the week's material?
+a. Coding is overwhelming
+b. Lectures are hard to follow
+c. It was all easy
+d. I don't know, I didn't watch the lectures
+e. Other
+
